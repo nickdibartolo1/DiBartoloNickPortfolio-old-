@@ -1,4 +1,4 @@
-Nick DiBartolo Portfolio
+#Nick DiBartolo Portfolio
 
 ## Description
 This project is a Portfolio of some of my projects I have completed. It also contains information about me, a contact form, and a link to my resume.
