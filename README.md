@@ -1,18 +1,10 @@
 ## Nick DiBartolo Portfolio
 
 ## Description
-This project is a Portfolio of some of my projects I have completed. It also contains information about me, a contact form, and a link to my resume.
-## User Story
-
-```md
-AS AN employer looking for candidates with experience building single-page applications
-I WANT to view a potential employee's deployed React portfolio of work samples
-SO THAT I can assess whether they're a good candidate for an open position
-```
+This project is a Portfolio of some of my projects I have completed. It also contains information about me and a link to my resume.
 
 ## Table of Contents
   - [Description](#description)
-  - [User Story](#user-story)
   - [Table of Contents](#table-of-contents)
   - [Applications Used](#applications-used)
   - [Deployment Link](#Deployment-Link)
