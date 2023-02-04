@@ -1,0 +1,34 @@
+.proj-card-style{
+  display: flex;
+  justify-content: center;
+}
+
+.proj-links__style{
+  list-style-type: none;
+  padding: 2.5%;
+  text-align: center;
+  font-family: 'Martel', serif;
+}
+
+
+
+@media all and (max-width: 450px){
+  .proj-card-style{
+    display: flex;
+    justify-content: center;
+    width: 120px;
+  };
+
+
+}
+
+/* @media all and (max-width: 700px){
+  .proj-card__media-query{
+   width: 100px
+  };
+
+
+} */
+
+
+
