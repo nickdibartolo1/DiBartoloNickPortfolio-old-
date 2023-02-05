@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/DiBartoloNickPortfolio/static/css/main.d029ac4e.chunk.css",
+    "main.js": "/DiBartoloNickPortfolio/static/js/main.9f54a773.chunk.js",
+    "main.js.map": "/DiBartoloNickPortfolio/static/js/main.9f54a773.chunk.js.map",
+    "runtime-main.js": "/DiBartoloNickPortfolio/static/js/runtime-main.37f060ee.js",
+    "runtime-main.js.map": "/DiBartoloNickPortfolio/static/js/runtime-main.37f060ee.js.map",
+    "static/js/2.5d240304.chunk.js": "/DiBartoloNickPortfolio/static/js/2.5d240304.chunk.js",
+    "static/js/2.5d240304.chunk.js.map": "/DiBartoloNickPortfolio/static/js/2.5d240304.chunk.js.map",
+    "index.html": "/DiBartoloNickPortfolio/index.html",
+    "static/css/main.d029ac4e.chunk.css.map": "/DiBartoloNickPortfolio/static/css/main.d029ac4e.chunk.css.map",
+    "static/js/2.5d240304.chunk.js.LICENSE.txt": "/DiBartoloNickPortfolio/static/js/2.5d240304.chunk.js.LICENSE.txt",
+    "static/media/MovieListImg.e51efcf7.png": "/DiBartoloNickPortfolio/static/media/MovieListImg.e51efcf7.png",
+    "static/media/about.e4b1ce48.jpg": "/DiBartoloNickPortfolio/static/media/about.e4b1ce48.jpg",
+    "static/media/empCommand.b01fbd53.png": "/DiBartoloNickPortfolio/static/media/empCommand.b01fbd53.png",
+    "static/media/introIMG.e021756e.jpg": "/DiBartoloNickPortfolio/static/media/introIMG.e021756e.jpg",
+    "static/media/nflfanbaseimg.13ec5b79.png": "/DiBartoloNickPortfolio/static/media/nflfanbaseimg.13ec5b79.png",
+    "static/media/passwordGen.c29d728c.png": "/DiBartoloNickPortfolio/static/media/passwordGen.c29d728c.png",
+    "static/media/randomQuote.022e1949.png": "/DiBartoloNickPortfolio/static/media/randomQuote.022e1949.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37f060ee.js",
+    "static/js/2.5d240304.chunk.js",
+    "static/css/main.d029ac4e.chunk.css",
+    "static/js/main.9f54a773.chunk.js"
+  ]
+}
