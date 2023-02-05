@@ -1,7 +1,7 @@
 ## Nick DiBartolo Portfolio
 
 ## Description
-This project is a portfolio of some of my projects I have completed. It also contains information about me and a link to my resume.
+This is my portfolio of some of the projects I have completed. It also contains information about me and a link to my resume.
 ## Table of Contents
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
